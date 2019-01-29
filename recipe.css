@@ -1,0 +1,43 @@
+header {
+    color: #A4A400;
+    background-color: #F0F0F0;	
+    font-family: "lucida sans unicode", "helvetica","arial",sans-serif;
+    text-decoration: underline;
+    letter-spacing: 0.25em;
+}
+
+h1{
+    text-align: center;
+    font-size: 22pt;
+    font-weight: bold;
+}
+
+body{
+    background-color: white;
+    background-image: url(images/silverware.jpg);
+    color: #404040;
+    font-size: 11pt;
+    font-family: "Georgia","Garamond",serif;
+    
+    
+}
+
+ul {
+    list-style-image: url(images/duck3.png);
+}
+
+.subHeader{
+    text-align: left;
+    font-size: 18pt;
+    font-weight: lighter;
+}
+.link{
+    color: #A4A400;
+    text-decoration: underline;
+}
+.userQuote{
+    background-color:#FFFFA8;
+    margin-left: 2em;
+    font-style: italic;
+    
+}
